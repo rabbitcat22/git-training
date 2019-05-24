@@ -3,7 +3,6 @@
 int main()
 {
 	int kor, eng, math;
-	int sum = 0;
 
 	math = 80;
 	eng = 100;
